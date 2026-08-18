@@ -10,6 +10,7 @@ Operation Srikandi adalah project fan translation *STEINS;GATE* ke Bahasa Indone
 
 Penerjemahan dan pengembangan patch masih berlangsung dan belum tersedia untuk rilis publik.
 
+- [ ] Subtitle Movie
 - [x] Prologue (Termasuk beberapa CG dan Email)
 - [ ] Chapter 1
 - [ ] Chapter 2
@@ -22,7 +23,6 @@ Penerjemahan dan pengembangan patch masih berlangsung dan belum tersedia untuk r
 - [ ] Chapter 9
 - [ ] Chapter 10
 - [ ] Chapter 11
-- [ ] Subtitle Movie
 
 ## Credit
 
