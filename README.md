@@ -10,6 +10,19 @@ Operation Srikandi adalah project fan translation *STEINS;GATE* ke Bahasa Indone
 
 Penerjemahan dan pengembangan patch masih berlangsung dan belum tersedia untuk rilis publik.
 
+- [x] Prologue
+- [ ] Chapter 1
+- [ ] Chapter 2
+- [ ] Chapter 3
+- [ ] Chapter 4
+- [ ] Chapter 5
+- [ ] Chapter 6
+- [ ] Chapter 7
+- [ ] Chapter 8
+- [ ] Chapter 9
+- [ ] Chapter 10
+- [ ] Chapter 11
+
 ## Credit
 
 - **Committee of Zero** — STEINS;GATE Improvement Patch dan framework patch
