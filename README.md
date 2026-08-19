@@ -30,6 +30,16 @@ Penerjemahan dan pengembangan patch masih berlangsung dan belum tersedia untuk r
 - [ ] Chapter 11
 - [ ] Prologue
 
+## Screenshots
+
+![Prologue 01](./screenshot/1.png)
+
+![Prologue 02](./screenshot/2.png)
+
+![Prologue 03](./screenshot/3.png)
+
+![Prologue 03](./screenshot/4.png)
+
 ## Credit
 
 - **Committee of Zero** — STEINS;GATE Improvement Patch dan framework patch
