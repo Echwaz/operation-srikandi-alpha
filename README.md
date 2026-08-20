@@ -28,7 +28,6 @@ Penerjemahan dan pengembangan patch masih berlangsung dan belum tersedia untuk r
 - [ ] Chapter 9
 - [ ] Chapter 10
 - [ ] Chapter 11
-- [ ] Prologue
 
 ## Screenshots
 
