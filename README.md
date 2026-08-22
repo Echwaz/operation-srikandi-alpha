@@ -12,12 +12,18 @@ Penerjemahan dan pengembangan patch masih berlangsung dan belum tersedia untuk r
 
 - [ ] Subtitle Movie
   - [x] Prologue
+  - [ ] Opening
+  - [ ] Ending
 - [x] Prologue
   - [x] Translation
   - [x] CG
   - [x] Email
   - [x] Proof Read
 - [ ] Chapter 1
+  - [ ] Translation (0/13)
+  - [ ] CG
+  - [ ] Email
+  - [ ] Proof Read
 - [ ] Chapter 2
 - [ ] Chapter 3
 - [ ] Chapter 4
