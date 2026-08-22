@@ -18,9 +18,7 @@ Video File: C:/Users/Echwaz/Videos/Prologue0.mp4
 Video AR Mode: 4
 Video AR Value: 1.782123
 Video Zoom Percent: 0.250000
-Scroll Position: 6
-Active Line: 11
-Video Position: 1542
+Video Position: 460
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,30 +27,30 @@ Style: Default,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.20,0:00:04.00,Default,,0,0,0,, {\pos(957,611.583)}{\fad(200,200)}Semuanya adalah kebetulan.
-Dialogue: 0,0:00:04.10,0:00:10.04,Default,,0,0,0,,{\pos(957,611.583)}{\fad(200,200)}Namun kebetulan pun juga salah satu takdir dunia.
+Dialogue: 0,0:00:04.10,0:00:10.04,Default,,0,0,0,,{\pos(957,611.583)}{\fad(200,200)}Namun kebetulan pun salah satu takdir dunia.
 Dialogue: 0,0:00:10.20,0:00:14.04,Default,,0,0,0,,{\pos(957,611.583)}{\fad(200,200)}Aku tidaklah gila. Aku sepenuhnya sadar.
-Dialogue: 0,0:00:14.21,0:00:19.95,Default,,0,0,0,,{\ko5}{\pos(957,611.583)}{\fad(200,200)}Yang ku katakan ini adalah kebenaran, bukan hanya celotehan anak SMP.
+Dialogue: 0,0:00:14.21,0:00:19.95,Default,,0,0,0,,{\ko5}{\pos(957,611.583)}{\fad(200,200)}Yang kukatakan ini adalah kebenaran, bukan hanya celotehan anak SMP.
 Dialogue: 0,0:00:20.08,0:00:24.05,Default,,0,0,0,,{\ko17}{\pos(957,611.583)}{\fad(200,200)}Meskipun terlihat seperti hal remeh.
 Dialogue: 0,0:00:24.19,0:00:29.39,Default,,0,0,0,,{\pos(957,611.583)}{\fad(200,200)}Hal itu terkadang menentukan masa depan.
-Dialogue: 0,0:00:29.62,0:00:31.92,Default,,0,0,0,,{\pos(957,611.583)}{\fad(200,200)}Apa kau tau {\i1}Butterfly Effect{\i0}?
-Dialogue: 0,0:00:32.06,0:00:38.09,Default,,0,0,0,,{\pos(957,656.333)}{\fad(200,200)}Jika tidak tau, maka cari tau.
-Dialogue: 0,0:00:34.29,0:00:38.09,Default,,0,0,0,,{\pos(957,706.056)}{\fad(200,200)}Butuh kehati-hatian dalam situasi ini.
+Dialogue: 0,0:00:29.62,0:00:31.92,Default,,0,0,0,,{\pos(957,611.583)}{\fad(200,200)}Apa kau tahu {\i1}Butterfly Effect{\i0}?
+Dialogue: 0,0:00:32.06,0:00:38.09,Default,,0,0,0,,{\pos(957,656.333)}{\fad(200,200)}Jika tidak tahu, maka cari tahu.
+Dialogue: 0,0:00:34.29,0:00:38.09,Default,,0,0,0,,{\pos(957,706.056)}{\fad(200,200)}Pahamilah, situasi seperti ini menuntut kehati-hatian sebesar itu.
 Dialogue: 0,0:00:38.17,0:00:42.27,Default,,0,0,0,,{\pos(957,611.583)}{\fad(200,200)}Sayangnya, aku tidak cukup berhati-hati.
 Dialogue: 0,0:00:42.37,0:00:47.64,Default,,0,0,0,,{\pos(957,611.583)}{\fad(200,200)}Kalau saja aku sadar betapa bodohnya diriku, aku tak mungkin sampai kehilangan "dia"
 Dialogue: 0,0:00:47.84,0:00:51.48,Default,,0,0,0,,{\pos(957,611.583)}{\fad(200,200)}Masa depan tidak akan menjadi seperti ini.
-Dialogue: 0,0:00:51.68,0:00:55.68,Default,,0,0,0,,{\pos(957,611.583)}{\fad(200,200)}Tapi, bagaimana aku bisa tau?
-Dialogue: 0,0:00:55.88,0:01:05.89,Default,,0,0,0,,{\pos(957,656.333)}{\fad(200,200)}Bagaimana aku tau pada saat itu,
+Dialogue: 0,0:00:51.68,0:00:55.68,Default,,0,0,0,,{\pos(957,611.583)}{\fad(200,200)}Tapi, bagaimana aku bisa tahu?
+Dialogue: 0,0:00:55.88,0:01:05.89,Default,,0,0,0,,{\pos(957,656.333)}{\fad(200,200)}Bagaimana aku tahu pada saat itu,
 Dialogue: 0,0:01:00.22,0:01:05.89,Default,,0,0,0,,{\pos(957,706.056)}{\fad(200,200)}satu tekanan tombol dapat mengubah takdir dunia.
 Dialogue: 0,0:01:06.09,0:01:07.76,Default,,0,0,0,,{\pos(957,611.583)}{\fad(200,200)}Pikirkan saja.
 Dialogue: 0,0:01:07.89,0:01:16.24,Default,,0,0,0,,{\pos(957,656.333)}{\fad(200,200)}Sehari-hari, manusia tidak menyadari 99% hal yang terjadi.
 Dialogue: 0,0:01:12.77,0:01:16.24,Default,,0,0,0,,{\pos(957,706.056)}{\fad(200,200)}Manusia jauh lebih bodoh dari yang mereka kira.
-Dialogue: 0,0:01:16.34,0:01:26.55,Default,,0,0,0,,{\pos(957,656.333)}{\fad(200,200)}Kita bahkan tidak sadar hal-hal sepele yang tersembunyi di kehidupan sehari-hari.
+Dialogue: 0,0:01:16.34,0:01:26.55,Default,,0,0,0,,{\pos(957,656.333)}{\fad(200,200)}Kita bahkan tidak menyadari hal-hal sepele yang tersembunyi di kehidupan sehari-hari.
 Dialogue: 0,0:01:21.27,0:01:26.55,Default,,0,0,0,,{\pos(957,706.056)}{\fad(200,200)}Kalaupun sadar, otak kita akan segera melupakannya.
 Dialogue: 0,0:01:26.71,0:01:28.48,Default,,0,0,0,,{\pos(957,611.583)}{\fad(200,200)}Aku ingin memberitahu diriku saat itu.
 Dialogue: 0,0:01:28.65,0:01:30.75,Default,,0,0,0,,{\pos(957,611.583)}{\fad(200,200)}Jangan lalai!
 Dialogue: 0,0:01:31.52,0:01:33.62,Default,,0,0,0,,{\pos(957,611.583)}{\fad(200,200)}Jangan tergesa-gesa!
 Dialogue: 0,0:01:34.19,0:01:36.29,Default,,0,0,0,,{\pos(957,611.583)}{\fad(200,200)}Jangan berpura-pura tidak lihat!
-Dialogue: 0,0:01:37.26,0:01:39.36,Default,,0,0,0,,{\pos(957,611.583)}{\fad(200,200)}Lebih waspada sekitar!
+Dialogue: 0,0:01:37.26,0:01:39.36,Default,,0,0,0,,{\pos(957,611.583)}{\fad(200,200)}Lebih waspada terhadap sekitar!
 Dialogue: 0,0:01:40.93,0:01:52.17,Default,,0,0,0,,{\pos(957,656.333)}{\fad(200,200)}Tangan jahat konspirasi ternyata jauh lebih dekat dari yang kau kira,
 Dialogue: 0,0:01:47.60,0:01:52.17,Default,,0,0,0,,{\pos(957,706.056)}{\fad(200,200)}selalu menunggu kesempatan untuk menjatuhkanmu...
 Dialogue: 0,0:01:52.02,0:01:54.02,Default,,0,0,0,,

@@ -16,9 +16,9 @@ Video File: C:/Users/Echwaz/Videos/Prologue02.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 1
-Active Line: 5
-Video Position: 123
+Scroll Position: 10
+Active Line: 14
+Video Position: 1047
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,7 +41,7 @@ Dialogue: 0,0:00:22.08,0:00:23.95,Glow,,0,0,0,glow,{\bord0\blur10\alpha&H20&\3c&
 Dialogue: 0,0:00:25.08,0:00:28.78,Glow,,0,0,0,glow,{\bord0\blur10\alpha&H20&\3c&HFFFFFF&} {\fs48} {\pos(192,832)}{\an7}{\fad(1200,200)}Jika mereka terlalu bijaksana,
 Dialogue: 0,0:00:27.08,0:00:28.78,Glow,,0,0,0,glow,{\bord0\blur10\alpha&H20&\3c&HFFFFFF&} {\fs48} {\pos(688,832)}{\an7}{\fad(1200,200)}mereka akan binasa.
 Dialogue: 0,0:00:29.14,0:00:31.96,Glow,,0,0,0,glow,{\bord0\blur10\alpha&H20&\3c&HFFFFFF&} {\fs48} {\pos(848,852)}{\an7}{\fad(1200,200)}Manusia melampaui kecepatan cahaya itu lebih konyol
-Dialogue: 0,0:00:32.02,0:00:36.80,Glow,,0,0,0,glow,{\bord0\blur10\alpha&H20&\3c&HFFFFFF&} {\fs48} {\pos(196,852)}{\an7}{\fad(1200,200)}daripada ikan mulai hidup di daratan.
+Dialogue: 0,0:00:32.02,0:00:36.80,Glow,,0,0,0,glow,{\bord0\blur10\alpha&H20&\3c&HFFFFFF&} {\fs48} {\pos(196,852)}{\an7}{\fad(1200,200)}daripada ikan yang mulai hidup di daratan.
 Dialogue: 0,0:00:36.02,0:00:39.47,Glow,,0,0,0,glow,{\bord0\blur10\alpha&H20&\3c&HFFFFFF&} {\fs48} {\pos(786,540)}{\an7}{\fad(1200,200)}Ini bisa disebut sebagai
 Dialogue: 0,0:00:40.02,0:00:43.14,Glow,,0,0,0,glow,{\bord0\blur10\alpha&H20&\3c&HFFFFFF&} {\fs48} {\pos(465,450)}{\an7}{\fad(1200,200)}ultimatum terakhir dari Tuhan kepada mereka yang melawan.
 Dialogue: 0,0:00:00.84,0:00:06.92,Utama,,0,0,0,,{\fs48} {\pos(196,822)}{\an7}{\fad(1200,200)}Alam semesta memiliki awal,
@@ -58,6 +58,6 @@ Dialogue: 0,0:00:22.08,0:00:23.95,Utama,,0,0,0,,{\fs48} {\pos(1345,862)}{\an7}{\
 Dialogue: 0,0:00:25.08,0:00:28.78,Utama,,0,0,0,,{\fs48} {\pos(192,832)}{\an7}{\fad(1200,200)}Jika mereka terlalu bijaksana,
 Dialogue: 0,0:00:27.08,0:00:28.78,Utama,,0,0,0,,{\fs48} {\pos(688,832)}{\an7}{\fad(1200,200)}mereka akan binasa.
 Dialogue: 0,0:00:29.14,0:00:31.96,Utama,,0,0,0,,{\fs48} {\pos(848,852)}{\an7}{\fad(1200,200)}Manusia melampaui kecepatan cahaya itu lebih konyol
-Dialogue: 0,0:00:32.02,0:00:36.80,Utama,,0,0,0,,{\fs48} {\pos(196,852)}{\an7}{\fad(1200,200)}daripada ikan mulai hidup di daratan.
+Dialogue: 0,0:00:32.02,0:00:36.80,Utama,,0,0,0,,{\fs48} {\pos(196,852)}{\an7}{\fad(1200,200)}daripada ikan yang mulai hidup di daratan.
 Dialogue: 0,0:00:36.02,0:00:39.47,Utama,,0,0,0,,{\fs48} {\pos(786,540)}{\an7}{\fad(1200,200)}Ini bisa disebut sebagai
 Dialogue: 0,0:00:40.02,0:00:43.14,Utama,,0,0,0,,{\fs48} {\pos(465,450)}{\an7}{\fad(1200,200)}ultimatum terakhir dari Tuhan kepada mereka yang melawan.
